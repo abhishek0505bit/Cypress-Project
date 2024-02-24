@@ -1,0 +1,41 @@
+[
+    {
+        "name" : "user doesn't click on filter",
+        "filters": [],
+        "productName" : "Batman: Bat Grunge T-Shirt",
+        "size": "M"
+    },
+    {
+        "name" : "user clicks on one filter",
+        "filters": [
+            "Arsenal FC"
+        ],
+        "productName" : "Batman: Bat Grunge T-Shirt",
+        "size": "M"
+
+    },
+    {
+        "name" : "user clicks on two filters",
+        "filters": [
+            
+            "Batman",
+            "Hoodie"
+        ],
+        "productName" : "Batman: Gold Foil Hoodie - Black",
+        "size": "M"
+
+
+    },
+    {
+        "name" : "user clicks on three filters",
+        "filters": [
+            "Superman",
+            "Hoodie",
+            "XL"
+        ],
+        "productName" : "Superman: Justice League Retro Book Cover T-Shirt- White",
+        "size": "M"
+
+
+    }
+]
