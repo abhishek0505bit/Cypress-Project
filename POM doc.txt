@@ -1,0 +1,10 @@
+object model : consist of two things
+    one class(also called page) : webElements + methods 
+    test file: spec file in cypress , scenarios or test methods in java selenium 
+
+ the Page Object Model helps in creating a clear separation between test code and the details of the UI,
+ leading to more robust and maintainable automated tests.
+
+
+In java selenium project : we separated pages:(webelements and methods) and scenarios: which contained test
+In cypress project : we separated pages and spec file
